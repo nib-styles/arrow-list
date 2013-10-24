@@ -1,0 +1,23 @@
+{
+  "name": "arrow-list",
+  "description": "List styles with arrows",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/green.png",
+    "images/green.svg",
+    "images/light-green.png",
+    "images/light-green.svg",
+    "images/red.png",
+    "images/red.svg",
+    "images/blue.png",
+    "images/blue.svg",
+    "images/purple.png",
+    "images/purple.svg",
+    "images/grey.png",
+    "images/grey.svg",
+    "images/white.png",
+    "images/white.svg"
+  ]
+}

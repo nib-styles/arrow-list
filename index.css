@@ -1,0 +1,49 @@
+.ArrowList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ArrowList li {
+  background-repeat: no-repeat;
+  background-position: 5px 4px;
+  padding-left: 20px;
+  margin-bottom: 5px;
+  background-image: url('images/grey.png');
+  background-image: url('images/grey.svg'), none;
+}
+
+.ArrowList--green li {
+  background-image: url('images/green.png');
+  background-image: url('images/green.svg'), none;
+}
+
+.ArrowList--lightGreen li {
+  background-image: url('images/light-green.png');
+  background-image: url('images/light-green.svg'), none;
+}
+
+.ArrowList--blue li {
+  background-image: url('images/blue.png');
+  background-image: url('images/blue.svg'), none;
+}
+
+.ArrowList--red li {
+  background-image: url('images/red.png');
+  background-image: url('images/red.svg'), none;
+}
+
+.ArrowList--white li {
+  background-image: url('images/white.png');
+  background-image: url('images/white.svg'), none;
+}
+
+.ArrowList--grey li {
+  background-image: url('images/grey.png');
+  background-image: url('images/grey.svg'), none;
+}
+
+.ArrowList--purple li {
+  background-image: url('images/purple.png');
+  background-image: url('images/purple.svg'), none;
+}
