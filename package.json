@@ -1,0 +1,10 @@
+{
+  "name": "@nib-styles/arrow-list",
+  "version": "0.1.0",
+  "description": "List styles with arrows",
+  "main.css": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-styles/arrow-list.git"
+  }
+}
